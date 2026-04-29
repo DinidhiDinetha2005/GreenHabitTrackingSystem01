@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "green-habit-tracker-b18cf",
+          "appId": "1:12008235247:android:54f4ceab26f8bdc4abbb1a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "green-habit-tracker-b18cf",
+          "configurations": {
+            "android": "1:12008235247:android:54f4ceab26f8bdc4abbb1a",
+            "web": "1:12008235247:web:b4b4d7787df637a2abbb1a"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

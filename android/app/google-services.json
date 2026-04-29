@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12008235247",
+    "project_id": "green-habit-tracker-b18cf",
+    "storage_bucket": "green-habit-tracker-b18cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12008235247:android:8bc989e971e757b7abbb1a",
+        "android_client_info": {
+          "package_name": "com.example.green_habit_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxPhPrRabkvK_O9G5CHqGoeeSowbarmRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12008235247:android:54f4ceab26f8bdc4abbb1a",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxPhPrRabkvK_O9G5CHqGoeeSowbarmRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
